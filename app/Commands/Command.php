@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace alyce\Commands;
 
 abstract class Command {
 

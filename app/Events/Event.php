@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace alyce\Events;
 
 abstract class Event {
 
